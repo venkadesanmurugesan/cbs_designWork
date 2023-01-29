@@ -26,7 +26,7 @@ h1 {
   color: #141414;
 }
 .sec1 {
-  background-image: url(./img/sec1_img.png);
+  background-image: url(../img/sec1_img.png);
   height: 650px;
   background-size: cover;
   width: 100%;
